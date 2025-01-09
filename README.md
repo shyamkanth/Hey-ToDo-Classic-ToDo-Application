@@ -35,7 +35,7 @@ Hey Todo is an Android application that allows users to manage their tasks in re
 ## Technologies Used
 
 - Kotlin
-- Firebase for real-time database synchronization
+- Coroutines for background processes
 - MVVM architecture
 - Room database for offline storage
 
@@ -49,4 +49,4 @@ Hey Todo is an Android application that allows users to manage their tasks in re
 
 ## License
 
-This project is licensed under the Apache License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the Apache 2.0 License - see the [LICENSE.md](LICENSE.md) file for details.
