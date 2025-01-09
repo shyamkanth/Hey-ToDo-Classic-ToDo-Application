@@ -1,4 +1,4 @@
-# Hey-ToDo-Classic-ToDo-Application
+# Hey ToDo : Classic ToDo Application
 
 Hey Todo is an Android application that allows users to manage their tasks in real-time. Users can create, read, update, and delete tasks with ease. It provides a simple and intuitive interface for task management, ensuring users can stay on top of their to-dos with minimal effort.
 
